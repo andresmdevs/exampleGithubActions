@@ -7,8 +7,8 @@ import hashlib
 from urllib.parse import urlencode
 
 # --- Configuración de API (¡Verifica estas claves de nuevo!) ---
-API_KEY = "pIA7zuBMRF0pI3OnXvRy3vNA3HRyYbNYEj1DPEOutiCMoM7je3LRbU106GMT4qlQ"
-SECRET_KEY = "3WTjvB3dCcufbHX9FwAehnqB89EjyTWPXQ6KRZ1qNuQXeXIjQYHM2tEgmleaERUw"
+API_KEY = "xxxx"
+SECRET_KEY = "xxxxxx"
 BASE_URL = "https://testnet.binancefuture.com"
 
 # --- Lógica de API (función asíncrona con depuración) ---
